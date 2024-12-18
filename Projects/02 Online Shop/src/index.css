@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    background-color:hsla(0, 0%, 0%, 0.01) ;
+    min-height: 100vh;
+}
