@@ -56,7 +56,7 @@ const AddNewBlog = () => {
           className="w-full border border-gray-400 bg-gray-100 bg-gr font-bold py-2 my-2"
           type="submit"
         >
-          {blogIdToEdit ? "Edit Blog" : "Add New Blog"}
+          {blogIdToEdit ? "Save Changes" : "Add Blog"}
         </button>
       </form>
     </div>
