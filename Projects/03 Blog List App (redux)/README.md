@@ -1,4 +1,4 @@
-# Blog List App
+# Blog List App with `Redux`
 
 This is a Blog List application built with `React` and `Redux`. The app allows users to add, edit, and delete blog posts, with the state being managed by Redux. It also uses local storage to persist data across sessions.
 
